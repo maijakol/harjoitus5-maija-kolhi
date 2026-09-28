@@ -5,7 +5,7 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Maija Kolhi
+- Maija Kölhi
 - INTKM26A2
 
 ## Projektin kuvaus
